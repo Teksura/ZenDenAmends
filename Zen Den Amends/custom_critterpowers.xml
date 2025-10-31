@@ -26,6 +26,7 @@
 				<specificattribute>
 					<name>BOD</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -38,6 +39,7 @@
 				<specificattribute>
 					<name>AGI</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -50,6 +52,7 @@
 				<specificattribute>
 					<name>STR</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -62,6 +65,7 @@
 				<specificattribute>
 					<name>REA</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -74,6 +78,7 @@
 				<specificattribute>
 					<name>CHA</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -86,6 +91,7 @@
 				<specificattribute>
 					<name>LOG</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -98,6 +104,7 @@
 				<specificattribute>
 					<name>INT</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
@@ -110,6 +117,7 @@
 				<specificattribute>
 					<name>WIL</name>
 					<min>1</min>
+					<max>1</max>
 				</specificattribute>
 			</bonus>
 			<source>RF</source>
