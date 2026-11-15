@@ -12,6 +12,10 @@
 			<hide />
 		</quality>
 		<quality>
+			<name>People's SIN (Criminal)</name>
+			<hide />
+		</quality>
+		<quality>
 			<name>Superhuman Psychosis</name>
 			<bonus>
 				<specificskill amendoperation="addnode">
