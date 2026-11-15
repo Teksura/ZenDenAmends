@@ -1388,7 +1388,7 @@
       <conceal>0</conceal>
       <accuracy>Physical</accuracy>
       <reach>0</reach>
-      <damage>{BOD}P</damage>
+      <damage>{BOD}S</damage>
       <ap>-5</ap>
       <mode>0</mode>
       <rc>0</rc>
