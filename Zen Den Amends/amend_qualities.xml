@@ -3,6 +3,9 @@
 		<quality xpathfilter="contains(name,'Rank (')">
 			<hide />
 		</quality>
+		<quality xpathfilter="contains(metagenic,'True')">
+			<doublecareer>False</doublecareer>
+		</quality>
 		<quality>
 			<name>Arcology Tantrum</name>
 			<hide />
