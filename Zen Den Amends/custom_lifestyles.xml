@@ -535,5 +535,75 @@
       <source>RF</source>
       <page>151</page>
     </quality>
+	<quality>
+      <id>e0297b67-eece-4d36-838c-0b6a34fb70be</id>
+      <name>BTB Luxury Lifestyle Discount (90)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>-90000</cost>
+      <required>
+        <allof>
+          <lifestyle>Luxury</lifestyle>
+        </allof>
+      </required>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>645af9ea-e9c8-46f1-b501-7fc1a9888a8a</id>
+      <name>BTB High Lifestyle Discount (5)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>-5000</cost>
+      <required>
+        <allof>
+          <lifestyle>High</lifestyle>
+        </allof>
+      </required>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>32291978-a1ae-4cfe-9abc-679cd7ffdeba</id>
+      <name>BTB Medium Lifestyle Discount (3)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>-3000</cost>
+      <required>
+        <allof>
+          <lifestyle>Medium</lifestyle>
+        </allof>
+      </required>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>15acae08-d0c6-4911-9ffc-beac60ef7f21</id>
+      <name>BTB Low Lifestyle Discount (2)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>-1500</cost>
+      <required>
+        <allof>
+          <lifestyle>Low</lifestyle>
+        </allof>
+      </required>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
+    <quality>
+      <id>e231dc1f-9f1f-4370-8bc6-712c849ce6fa</id>
+      <name>BTB Squatter Lifestyle Discount (90)</name>
+      <category>Positive</category>
+      <lp>0</lp>
+      <cost>-500</cost>
+      <required>
+        <allof>
+          <lifestyle>Squatter</lifestyle>
+        </allof>
+      </required>
+      <source>BTB</source>
+      <page>164</page>
+    </quality>
  </qualities>
 </chummer>
