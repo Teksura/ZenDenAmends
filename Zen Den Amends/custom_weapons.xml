@@ -36,7 +36,7 @@
     </accessory>
     <accessory>
       <id>123c201b-7443-4418-bec4-fe160a6fef17</id>
-      <name>Spare Clip (Ammo Skip)</name>
+      <name>Spare Clip (Ammo Swap)</name>
       <mount />
       <avail>4</avail>
       <cost>30</cost>
@@ -45,14 +45,18 @@
       <ammoslots>1</ammoslots>
       <rating>0</rating>
       <required>
-        <weapondetails>
-          <OR>
-            <ammo operation="contains">(c)</ammo>
-            <ammo operation="contains">(d)</ammo>
-          </OR>
-        </weapondetails>
-        <accessory>Ammo Skip</accessory>
+        <accessory>Ammo Swap</accessory>
       </required>
+    </accessory>
+    <accessory>
+      <id>566068b9-c4f3-413c-9672-3264ac3f1612</id>
+      <name>Ammo Swap</name>
+      <mount />
+      <hide />
+      <source>ZDR</source>
+      <page>1</page>
+      <ammoslots>1</ammoslots>
+      <rating>0</rating>
     </accessory>
     <accessory>
       <id>7d55c967-a8d6-4444-9cf8-468d7d9fd985</id>
@@ -607,7 +611,7 @@
       <page>1</page>
       <accessories>
         <accessory>
-          <name>Ammo Skip</name>
+          <name>Ammo Swap</name>
         </accessory>
       </accessories>
       <accessorymounts>
@@ -636,6 +640,9 @@
       <accessories>
         <accessory>
           <name>Smartgun System, Internal</name>
+        </accessory>
+        <accessory>
+          <name>Ammo Swap</name>
         </accessory>
       </accessories>
       <accessorymounts>
@@ -668,7 +675,7 @@
           <name>Smartgun System, Internal</name>
         </accessory>
         <accessory>
-          <name>Ammo Skip</name>
+          <name>Ammo Swap</name>
         </accessory>
       </accessories>
       <accessorymounts>
@@ -739,9 +746,6 @@
       <source>ZDR</source>
       <page>1</page>
       <accessories>
-        <accessory>
-          <name>Ammo Skip</name>
-        </accessory>
         <accessory>
           <name>Gas-Vent 3 System</name>
         </accessory>
@@ -1072,10 +1076,10 @@
       <page>1</page>
       <accessories>
         <accessory>
-          <name>Ammo Skip</name>
+          <name>Smartgun System, Internal</name>
         </accessory>
         <accessory>
-          <name>Smartgun System, Internal</name>
+          <name>Ammo Swap</name>
         </accessory>
       </accessories>
       <accessorymounts>
