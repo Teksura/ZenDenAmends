@@ -6,6 +6,9 @@
 		<quality xpathfilter="contains(metagenic,'True')">
 			<doublecareer>False</doublecareer>
 		</quality>
+		<quality xpathfilter="contains(name,'Dissonant Stream:')">
+			<hide />
+		</quality>
 		<quality>
 			<name>Arcology Tantrum</name>
 			<hide />
