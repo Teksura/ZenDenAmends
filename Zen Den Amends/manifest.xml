@@ -19,7 +19,7 @@
 -->
 <manifest>
   <guid>6bcce4e0-6ae0-4c7d-b6c8-912606db090d</guid>
-  <version>15.4</version>
+  <version>15.5</version>
   <updatelocation>https://github.com/ZenDenOperations/ZenDenAmends/releases</updatelocation>
   <authors>
     <author>
@@ -29,7 +29,7 @@
   </authors>
   <descriptions>
     <description>
-      <text>This custom data file contains the house rules of the Zen Den. Special thanks to the following contributors: EfimEvgen, Teksura, EmmjayXII, JDub-76</text>
+      <text>This custom data file contains the house rules of the Zen Den.</text>
       <lang>en-us</lang>
     </description>
   </descriptions>
