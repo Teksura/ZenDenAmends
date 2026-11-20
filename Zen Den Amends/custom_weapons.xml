@@ -607,7 +607,7 @@
       <ammo>16(c)</ammo>
       <avail>12R</avail>
       <cost>450</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -635,7 +635,7 @@
       <ammo>9(c)</ammo>
       <avail>12R</avail>
       <cost>950</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -668,7 +668,7 @@
       <ammo>15(c)</ammo>
       <avail>6R</avail>
       <cost>1200</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -701,7 +701,7 @@
       <ammo>14(c)</ammo>
       <avail>36R</avail>
       <cost>2700</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -743,7 +743,7 @@
       <ammo>16(c)</ammo>
       <avail>18F</avail>
       <cost>3250</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -751,6 +751,9 @@
         </accessory>
         <accessory>
           <name>Smartgun System, Internal</name>
+        </accessory>
+                <accessory>
+          <name>Ammo Swap</name>
         </accessory>
         <accessory>
           <name>Advanced Safety System, Electro Shocker</name>
@@ -795,7 +798,7 @@
       <ammo>8(c)</ammo>
       <avail>12R</avail>
       <cost>1200</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -825,7 +828,7 @@
       <ammo>5(cy)</ammo>
       <avail>20F</avail>
       <cost>1500</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -862,7 +865,7 @@
       <ammo>30(c)</ammo>
       <avail>12F</avail>
       <cost>720</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessorymounts>
         <mount>Stock</mount>
@@ -887,7 +890,7 @@
       <ammo>32(c)</ammo>
       <avail>9R</avail>
       <cost>1600</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -922,7 +925,7 @@
       <ammo>6(c)</ammo>
       <avail>0</avail>
       <cost>0</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -949,8 +952,8 @@
       <ammo>30(c)</ammo>
       <avail>6R</avail>
       <cost>875</cost>
-      <source>SR5</source>
-      <page>428</page>
+      <source>6e</source>
+      <page>1</page>
       <accessorymounts>
         <mount>Barrel</mount>
         <mount>Top</mount>
@@ -974,7 +977,7 @@
       <ammo>80(c)</ammo>
       <avail>15R</avail>
       <cost>850</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1012,7 +1015,7 @@
       <ammo>32(c)</ammo>
       <avail>14F</avail>
       <cost>3500</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1042,7 +1045,7 @@
       <ammo>100(c)</ammo>
       <avail>15F</avail>
       <cost>5500</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1072,7 +1075,7 @@
       <ammo>40(c)</ammo>
       <avail>16F</avail>
       <cost>2500</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1105,7 +1108,7 @@
       <ammo>7(m)</ammo>
       <avail>15R</avail>
       <cost>20000</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1135,7 +1138,7 @@
       <ammo>100(belt)</ammo>
       <avail>14F</avail>
       <cost>5500</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessorymounts>
         <mount>Stock</mount>
@@ -1165,7 +1168,7 @@
       <ammo>50(c)</ammo>
       <avail>20F</avail>
       <cost>18400</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1204,7 +1207,7 @@
       <ammo>8(c)</ammo>
       <avail>24F</avail>
       <cost>48000</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessorymounts>
         <mount>Stock</mount>
@@ -1229,7 +1232,7 @@
       <ammo>External Source</ammo>
       <avail>24F</avail>
       <cost>25000</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
 			<accessorymounts>
 				<mount>Top</mount>
@@ -1253,7 +1256,7 @@
       <ammo>10(c) or External Source</ammo>
       <avail>14F</avail>
       <cost>8750</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1284,7 +1287,7 @@
       <ammo>2x10(c) or External Source</ammo>
       <avail>18F</avail>
       <cost>18750</cost>
-      <source>ZDR</source>
+      <source>6e</source>
       <page>1</page>
       <accessories>
         <accessory>
@@ -1317,8 +1320,8 @@
       <ammo>External Source</ammo>
       <avail>24F</avail>
       <cost>44300</cost>
-      <source>RG</source>
-      <page>49</page>
+      <source>6e</source>
+      <page>1</page>
       <accessories>
         <accessory>
           <name>Smartgun System, Internal</name>
