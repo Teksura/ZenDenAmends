@@ -1180,7 +1180,7 @@
 			<id>26D26829-5993-4403-A3FA-230483C4151A</id>
 			<name>Nano Health Suite</name>
 			<limit>False</limit>
-			<category>Hard Nanoware</category>
+			<category>Soft Nanoware</category>
 			<ess>0</ess>
 			<capacity>0</capacity>
 			<avail>6R</avail>
