@@ -2054,8 +2054,7 @@
 		<quality>
 			<id>34b735a5-9333-45c7-ad02-829bfe213062</id>
 			<name>Pop Culture Wizard</name>
-			<karma>-2</karma>
-			<limit>4</limit>
+			<karma>-6</karma>
 			<category>Negative</category>
 			<required>
 				<oneof>
